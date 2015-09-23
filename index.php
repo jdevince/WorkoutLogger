@@ -2,7 +2,7 @@
 	include("Includes/header.php");
 ?>
 <br>
-<h1> Welcome to Ribbon of Friends! </h1>
+<h1> Welcome to Workout Logger! </h1>
 <br><br>
 <?php
     if (!isset($_SESSION["username"]))
