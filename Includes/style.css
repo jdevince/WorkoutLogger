@@ -1,0 +1,30 @@
+body {
+	background-color: lightcyan;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.table caption {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.table th, td {
+    text-align: center;
+}
+
+.footerPush {
+    height: 4em;
+    clear: both;
+}
